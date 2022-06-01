@@ -46,7 +46,7 @@
     "@openzeppelin/contracts": "^4.1.0",
     "@openzeppelin/contracts-upgradeable": "^4.1.0",
     "@uniswap/lib": "^4.0.1-alpha",
-    "debug": "^4.3.2",
+    "debug": "^4.3.4",
     "dotenv": "^8.2.0",
     "hardhat-contract-sizer": "^2.0.3",
     "hardhat-docgen": "^1.1.1",

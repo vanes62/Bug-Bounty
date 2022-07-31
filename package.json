@@ -42,7 +42,7 @@
     "solidity-coverage": "^0.7.16"
   },
   "dependencies": {
-    "@nomiclabs/hardhat-etherscan": "^2.1.2",
+    "@nomiclabs/hardhat-etherscan": "^3.0.2",
     "@openzeppelin/contracts": "^4.1.0",
     "@openzeppelin/contracts-upgradeable": "^4.1.0",
     "@uniswap/lib": "^4.0.1-alpha",

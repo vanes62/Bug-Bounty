@@ -52,6 +52,6 @@
     "hardhat-docgen": "^1.1.1",
     "hardhat-gas-reporter": "^1.0.7",
     "prettier-plugin-solidity": "^1.0.0-beta.10",
-    "solhint": "^3.3.6"
+    "solhint": "^3.4.0"
   }
 }

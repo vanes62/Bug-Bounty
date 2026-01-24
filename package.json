@@ -42,7 +42,7 @@
     "solidity-coverage": "^0.7.16"
   },
   "dependencies": {
-    "@nomiclabs/hardhat-etherscan": "^2.1.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.8",
     "@openzeppelin/contracts": "^4.1.0",
     "@openzeppelin/contracts-upgradeable": "^4.1.0",
     "@uniswap/lib": "^4.0.1-alpha",
@@ -50,8 +50,8 @@
     "dotenv": "^8.2.0",
     "hardhat-contract-sizer": "^2.0.3",
     "hardhat-docgen": "^1.1.1",
-    "hardhat-gas-reporter": "^1.0.7",
+    "hardhat-gas-reporter": "^2.0.0",
     "prettier-plugin-solidity": "^1.0.0-beta.10",
-    "solhint": "^3.3.6"
+    "solhint": "^3.4.0"
   }
 }
